@@ -1,0 +1,21 @@
+{
+    "name": "yangcsir/guzzle-retry",
+    "description": "laravel guzzle retry",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "guzzle",
+        "retry"
+    ],
+    "require": {
+        "php": ">=7.1",
+        "guzzlehttp/guzzle": ">=6.0.0",
+        "laravel/framework": ">=5.8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "YangCSir\\GuzzleRetry\\": "src/"
+        }
+    }
+}
