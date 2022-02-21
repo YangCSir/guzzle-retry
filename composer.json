@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "YangCSir\\GuzzleRetry\\": "src/"
+            "GuzzleRetry\\": "src/"
         }
     }
 }
